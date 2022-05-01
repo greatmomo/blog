@@ -12,3 +12,4 @@ thinking data first
 Data Model Task
   online learning platform
   profile tab
+  virtual pinboard
