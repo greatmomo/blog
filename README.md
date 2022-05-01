@@ -13,3 +13,4 @@ Data Model Task
   online learning platform
   profile tab
   virtual pinboard
+  posts and nested comments
