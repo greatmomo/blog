@@ -7,3 +7,4 @@ Active Record Migrations finished
 Record Validations finished
 Record Associations
 Youtube video
+thinking data first
